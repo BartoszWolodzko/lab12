@@ -1,3 +1,6 @@
 **/node_modules
+**/.idea/**
 **/.idea
-.idea
+.idea/**
+.idea/*
+.idea/lab12.iml
